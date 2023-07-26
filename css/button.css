@@ -10,15 +10,15 @@
 }
 
 .button.blue{
-    background-color: #1FB6FF;
+    background-color: #8e78ee;
 }
 
 button.green{
-    background-color: #13CE66;
+    background-color: #3a7adb;
 }
 
 button.red{
-    background-color: #FF4949;
+    background-color: #e07575;
 }
 
 .button:hover{

@@ -5,10 +5,10 @@
 }
 
 :root{
-    --primary-color: #FFBA00;
-    --secundary-color: #FFF1CC;
+    --primary-color: #ff00c8;
+    --secundary-color: #ffccfc;
     --shadow-color: #CCC;
-    --text-color: #FFF;
+    --text-color: #edc5ee;
 }
 
 body{
